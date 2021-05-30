@@ -1,0 +1,8 @@
+[AWS]
+endpoint = ""
+client_id = ""
+
+[openweather]
+api_key = ""
+lat = ""
+long = ""
